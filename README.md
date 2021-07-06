@@ -1,10 +1,4 @@
 - 👋 Hi, I’m @chiragdaga
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-chiragdaga/chiragdaga is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 I’m interested in Computer Science and Technology
+- 🌱 I’m currently learning Web Development
+- 📫 To connect with me drop a mail in chiragdaga2001@gmail.com
